@@ -1,14 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/StQAS8iq)
 
-# Glider Simulation Project  
-**Name:** Kellen Knop  
+# Continuous Glider Simulation  
+**Name:** Kellen Knop 
 **Date:** April 16, 2025
 
-This project simulates two types of gliders using C++:
+This project simulates a **continuous glider** using color animation in C++.  
+The main file is: `CAAnimate.cpp`.
 
-- **Discrete Glider (Black & White):** Implemented in `CAAnimate.cpp`. This simulates a glider using a cellular automaton and Conway's Game of Life.
-- **Continuous Glider (Color):** Implemented in `continuousglider.cpp`. This version also uses a cellular automaton, except it implements "fuzzy" (continuous) logic from Game of Life. It simulates a glider with smooth, continuous motion and visual output in color.
+The program displays a representation of glider movement in a cellular automaton-like environment, enhanced with color for visual clarity.
 
-## Tools & Assistance
+## Technologies Used
 
-I used **GitHub Copilot** and **Google Gemini** to assist with coding and debugging during development.
+- C++
+- Copilot (GitHub)
+- Gemini (Google)
+
+## Notes
+
+I used AI assistance from **Copilot** and **Gemini** to help me write and debug code for this project.
